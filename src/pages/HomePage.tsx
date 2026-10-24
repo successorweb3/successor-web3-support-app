@@ -1,4 +1,4 @@
-import { ArrowRight, BadgeCheck, CheckCircle2, ChevronRight, HeartHandshake, MessageSquareText, ShieldCheck, Sparkles, Wallet2 } from 'lucide-react';
+import { ArrowRight, BookOpen, CheckCircle2, ChevronRight, HeartHandshake, MessageSquareText, ShieldCheck, Sparkles, Wallet2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const featureCards = [
